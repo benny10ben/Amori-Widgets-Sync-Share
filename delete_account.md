@@ -23,4 +23,4 @@ If you would like to delete your Amori account and all associated data, you can 
 
 ## Contact
 If you face issues deleting your account in the app, you can contact us at:  
-📧 **support@amori.app**  
+📧 **developer.ben10@gmail.com**  
